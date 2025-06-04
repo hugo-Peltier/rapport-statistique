@@ -14,24 +14,9 @@ Ce projet s’appuie sur un jeu de données réel pour appliquer des méthodes s
 - Visualiser les résultats (distributions, régressions, corrélations, etc.)
 - Organiser une interface console pour permettre à l’utilisateur de choisir ses analyses
 
----
 
-## Structure du projet
 
-rapport-statistique/
-├── main.py # Script principal avec menu
-├── analyse_descriptive.py # Fonctions d’analyse statistique
-├── visualisations.py # Graphiques matplotlib/seaborn
-├── utils.py # Nettoyage / chargement CSV
-├── data/
-│ └── donnees.csv # Jeu de données analysé
-├── README.md
-└── requirements.txt
 
-yaml
-Copier le code
-
----
 
 ## Lancer le projet
 
@@ -42,8 +27,6 @@ git clone https://github.com/hugo-Peltier/rapport-statistique.git
 cd rapport-statistique
 Installer les dépendances :
 
-bash
-Copier le code
 pip install -r requirements.txt
 Lancer le script principal :
 
@@ -58,5 +41,5 @@ Auteur : Hugo Peltier
 Licence
 Usage strictement académique. Toute diffusion doit citer les auteurs.
 
-yaml
+
 
