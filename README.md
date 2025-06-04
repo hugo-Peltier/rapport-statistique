@@ -64,7 +64,4 @@ Licence
 Usage strictement académique. Toute diffusion doit citer les auteurs.
 
 yaml
-Copier le code
-
----
 
