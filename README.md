@@ -1,9 +1,4 @@
-ChatGPT a dit :
-Parfait ! Voici ce que je vais te fournir :
 
-✅ 1. README.md pour le projet rapport-statistique
-markdown
-Copier le code
 # Rapport Statistique - Analyse de données
 
 Projet réalisé dans le cadre du module d'introduction aux statistiques à l’ESILV (A2 - 4e semestre).
