@@ -1,0 +1,27 @@
+### 2. `.gitignore` adapté pour un projet Python avec données
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Données
+*.csv
+*.xlsx
+*.json
+
+# Notebooks temporaires
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.code-workspace
+*.sublime*
+
+# Logs
+*.log
